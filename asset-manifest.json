@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/talha/static/js/main.6b9b44df.chunk.js",
+    "main.js.map": "/talha/static/js/main.6b9b44df.chunk.js.map",
+    "runtime-main.js": "/talha/static/js/runtime-main.900d715f.js",
+    "runtime-main.js.map": "/talha/static/js/runtime-main.900d715f.js.map",
+    "static/js/2.ac50b6f0.chunk.js": "/talha/static/js/2.ac50b6f0.chunk.js",
+    "static/js/2.ac50b6f0.chunk.js.map": "/talha/static/js/2.ac50b6f0.chunk.js.map",
+    "index.html": "/talha/index.html",
+    "static/js/2.ac50b6f0.chunk.js.LICENSE.txt": "/talha/static/js/2.ac50b6f0.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/talha/static/media/svg-1.98bb2329.svg",
+    "static/media/svg-2.svg": "/talha/static/media/svg-2.f186b8a8.svg",
+    "static/media/svg-3.svg": "/talha/static/media/svg-3.41ee3cc9.svg",
+    "static/media/talha.jpg": "/talha/static/media/talha.6aa656a1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900d715f.js",
+    "static/js/2.ac50b6f0.chunk.js",
+    "static/js/main.6b9b44df.chunk.js"
+  ]
+}
